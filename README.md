@@ -26,11 +26,12 @@ Arduino priklopimo na računalnik, za prižig avta pritisnemo tipko. V kolikor s
 
 # VHODI IN IZHODI
 
-|    VHOD      |  IZHOD  |
-|--------------|---------|
-|    TIPKA     |  RELE   |
-| STIKALO+RELE |   NIČ   |
-|  STIKALO ON  | BLOKADA |
+|    OZNAKA V NAČRTU     |  NASLOV OPERANDA  | VRSTA KONTAKTA|        POMEN        |
+|------------------------|-------------------|---------------|---------------------|
+|        TIPKA           |        X0         |     N.O.      |      Prižig         |
+|      STIKALO+RELE      |        X1         |     N.C.      |  Sprožilec akcije   |
+|       STIKALO ON       |        X2         |     N.O       |     BLOKADA         |
+|        MOTOR           |        Y0         |     N.C.      |        POGON        | 
 
 ## SLIKE
 # SHEMA
