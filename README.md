@@ -32,8 +32,10 @@ Arduino priklopimo na računalnik, za prižig avta pritisnemo tipko. V kolikor s
 | STIKALO+RELE |   NIČ   |
 |  STIKALO ON  | BLOKADA |
 
-#SLIKE
-
+## SLIKE
+# SHEMA
 ![SHEMA](/Screenshot%202022-05-11%20at%2011.02.17.png)
+# BREADBOARD
 ![BREADBOARD](/Screenshot%202022-05-11%20at%2011.17.51.png)
+# REALNI POGLED
 ![SESTAVA Z ARDUINO](/IMG_20220425_121155.jpg)
