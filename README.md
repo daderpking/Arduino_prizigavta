@@ -25,13 +25,15 @@ Arduino priklopimo na računalnik, za prižig avta pritisnemo tipko. V kolikor s
 -možnost start/stop funkcije
 
 #VHODI IN IZHODI
+
 |    VHOD      |  IZHOD  |
+|--------------|---------|
 |    TIPKA     |  RELE   |
 | STIKALO+RELE |   NIČ   |
 |  STIKALO ON  | BLOKADA |
 
 #SLIKE
 
-!(SHEMA)(https://github.com/daderpking/Arduino_prizigavta/blob/main/Screenshot%202022-05-11%20at%2011.02.17.png)
-!(BREADBOARD)(https://github.com/daderpking/Arduino_prizigavta/blob/main/Screenshot%202022-05-11%20at%2011.17.51.png)
-!(SESTAVA Z ARDUINO)(https://github.com/daderpking/Arduino_prizigavta/blob/main/IMG_20220425_121155.jpg)
+![SHEMA](/Screenshot%202022-05-11%20at%2011.02.17.png)
+![BREADBOARD](/Screenshot%202022-05-11%20at%2011.17.51.png)
+![SESTAVA Z ARDUINO](/IMG_20220425_121155.jpg)
